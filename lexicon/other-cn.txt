@@ -1,0 +1,10 @@
+Medication 药物治疗
+Oral solution 口服液
+Painkiller 止痛药
+Side-effect 副作用
+Syringe [sɪ'rɪn(d)ʒ]针筒
+Syrup ['sɪrəp]糖浆
+Tablet 药片
+Tampon 卫生棉
+rupture of uterus 子宫破裂
+infection 感染

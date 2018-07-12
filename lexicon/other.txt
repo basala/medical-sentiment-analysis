@@ -1,0 +1,12 @@
+medication
+syrup
+painkiller
+tampon
+oral
+syringe
+tablet
+uterus
+infection
+healthy
+health
+pain

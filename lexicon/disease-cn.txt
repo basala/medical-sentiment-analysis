@@ -1,0 +1,190 @@
+cough 咳嗽
+asthma 哮喘
+pneumonia 肺炎
+dermatitis 皮炎
+gastritis 胃炎
+hepatitis 肝炎
+appendicitis 盲肠炎
+arrhythmia 心律不齐
+diarrhoea 痢疾
+acne 粉刺
+freckle,ephelis 痣,雀斑
+endemic 水土不服
+sprain 扭伤
+stupor 昏迷
+bruise 淤伤
+scalding 烫伤
+shuddering 发抖
+inflammation 炎症
+acute 急症
+chronic 慢性病
+congenital 先天性病
+nausea 恶心
+vomit 呕吐
+acne 粉刺
+diarrhea,diarrhoea,laxness,scour,tummy 痢疾,腹泻,拉肚子
+flu 流感
+quarantine 检疫
+vaccinate 打疫苗
+endemic 水土不服
+relapse 复发症
+casualty 急症
+stupor 昏迷
+sprain 扭伤
+scalding 烫伤
+graze 擦伤
+scratch 搔挠
+trauma 外伤
+bruise 淤伤
+fracture 骨折
+dislocation 脱臼
+tinnitus 耳鸣
+trachoma 沙眼
+colour blindness 色盲
+nearsightedness,myopia 近视
+astigmatism 散光
+gingivitis 牙龈炎
+cavity 龋齿
+fever 发烧
+malnutrition 营养不良
+incubation 潜伏期
+asthenia 虚弱
+poisoning 中毒
+fatigue 疲劳
+heat stroke 中暑
+itching 发痒
+ache,pain 痛
+tetanus 破伤风
+chill 打冷颤
+pale 脸色发白
+Disease 疾病
+anemia,anaemia 贫血
+angina 心绞痛
+appendicitis 阑尾炎
+arthritis 关节炎
+bronchitis 支气管炎
+cancer 癌
+catarrh 卡他,粘膜炎
+pox,varicella 水痘
+cholera 霍乱
+cold 感冒,伤风,着凉
+diabetes 糖尿病
+diphtheria 白喉
+eczema 湿疹
+epilepsy 癫痫
+erysipelas 丹毒
+gangrene 坏疽
+measles,rubella 风疹
+gout 痛风
+headache 头痛
+hemiplegy,hemiplegia 偏瘫,半身不遂
+icterus,jaundice 黄疸
+indigestion 消化不良
+influenza,flu 流感
+insanity 精神病
+leukemia 白血病
+malaria 疟疾
+malnutrition 营养不良
+Malta 马耳他热,波状热
+measles 麻疹
+migraine 偏头痛
+miocardial
+infarction 心肌梗塞
+mumps 流行性腮腺炎
+neuralgia 神经痛
+neurasthenia 神经衰弱
+paralysis 麻痹
+peritonitis 腹膜炎
+pharyngitis 咽炎
+phtisis 痨病,肺结核
+pneumonia 肺炎
+poliomyelitis 脊髓灰质炎
+rabies 狂犬病
+rheumatism 风湿病
+rickets,rachitis 佝偻病
+scabies,itch 疥疮
+scarlet 猩红热
+sciatica 坐骨神经痛
+sclerosis 硬化
+septicemia,septicaemia 败血病
+sinusitis 窦炎
+smallpox 天花
+swamp 沼地热
+syncope 晕厥
+syphilis 梅毒
+tetanus 破伤风
+thrombosis 血栓形成
+torticollis,stiff neck 斜颈
+tuberculosis 结核病
+tumour,tumor 瘤
+typhus 斑疹伤寒
+urticaria,hives 荨麻疹
+whooping cough 百日咳
+yellow fever 黄热病
+zona,shingles 带状疮疹
+Acne['ækni]粉刺
+Acute 性病
+Allergy['ælɚdʒi]过敏
+Appendictis 阑尾炎
+Arthritis[ɑr'θraɪtɪs]关节炎
+Asthma['æzmə]哮喘
+Athlete's foot足癣
+Blister['blɪstɚ]水泡
+Bronchitis[brɑŋ'kaɪtɪs]支气管炎
+Burn 烧伤
+Cancer['kænsɚ]癌症
+Chickenpox['tʃɪkɪnpɑks]水痘
+Cold 感冒
+Constipation['kɑnstə'peʃən]便秘
+Convulsion[kən'vʌlʃən]抽搐
+Cough[kɔf]咳嗽
+Cramp[kræmp]痉挛
+Diabetes[,daɪə'bitiz]糖尿病
+Diarrhea[,daɪə'riə]腹泻
+Dysmenorrhea[,dɪsmenə'rɪə]痛经
+Eczema[ɪɡ'zimə]湿疹
+Enteritis[,ɛntə'raɪtɪs]肠炎
+Enterogastritis[,ɛntərəu,gæ'straitis]肠胃炎
+Epilepsy['ɛpə'lɛpsi]癫痫
+Faint[fent]昏厥
+Fever['fivɚ]发烧
+Flu[flu]流感
+Frostbite['frɒs(t)baɪt]冻疮
+Fungus 真菌感染
+Headache['hɛd'ek]头疼
+HeartAttack 心脏病发作
+Hemorrhoid[,hɛmə'rɔɪd]痔疮
+Hepatitis[,hɛpə'taɪtɪs]肝炎
+Hoarse [hɔːs](声音)嘶哑的
+Hypertension[haɪpə'tenʃ(ə)n]高血压
+Indigestion 消化不良
+Infection[ɪn'fɛkʃən]感染
+Inflammation['ɪnflə'meʃən]发炎
+Itchy 痒的
+Laryngitis[,lærɪn'dʒaɪtɪs]喉炎
+Malaria[mə'lɛrɪə]痢疾
+Measles['mizəlz]麻疹
+Meningitis[,mɛnɪn'dʒaɪtɪs]脑膜炎
+Menstruation[,mɛnstru'eʃən](period)月经
+Migraine['maɪɡren]偏头疼（较严重）
+Nausea['nɔzɪə]恶心
+Nosebleed['nozblid]流鼻血
+Obesity[o'bisəti]肥胖症
+Paralysis[pə'ræləsɪs]瘫痪
+Polio['polɪo]小儿麻痹症
+Pus[pʌs]脓
+Rash[ræʃ]皮疹
+Rhinitis[raɪ'naɪtɪs; rɪ-]鼻炎
+RunningNose 流鼻涕
+Shivery ['ʃɪv(ə)rɪ]发冷
+Sore throat 咽喉痛
+Spasm['spæzəm]抽搐
+Stomach['stʌmək]胃
+StomachUlcer['ʌlsə] 胃溃疡
+Stroke[strok]中风
+Tuberculosis[tʊ'bɝkjə'losɪs]肺结核
+Ulcer['ʌlsɚ]溃疡
+Urethritis[,juəri'θraitis] 尿道炎
+Virus['vaɪrəs]病毒
+Vomit['vɑmɪt]呕吐
+ebola 埃博拉

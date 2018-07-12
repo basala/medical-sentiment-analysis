@@ -1,0 +1,426 @@
+Denque fever 登革熱
+malaria 瘧疾
+typhoid 傷寒
+tuberculosis 肺結核
+measles 痲疹
+cholera 霍亂
+polio 小兒麻痺症
+chicken pox 水痘
+athlete's foot 香港腳
+smallpox    天花
+leprosy 痲瘋病
+rabies  狂犬病, 恐水症
+scarlet fever   猩紅熱
+typhus  斑疹傷寒
+pertussis   百日咳
+diphtheria  白喉
+dysentery   痢疾
+German measles  德國麻疹
+relapsing fever 回歸熱
+influenza   流行性感冒
+plague  鼠疫, 黑死病
+scabies     疥瘡
+meningococcus 　    腦膜炎
+thrush  鵝口瘡
+hepatitis B     B 型肝炎
+food poisoning (botulism)   食物中毒
+congestion  充血
+stroke  中風
+abnormal heart beat 心律不整
+mononucleosis   單核白血球增多症
+elevated blood pressure 高血壓
+leukemia    白血病
+heart attact    心臟病
+myocardial disease  心肌梗塞
+anemia  貧血
+Mediterranian anemia    地中海型貧血
+hemophilia  血友病
+septicemia  敗血症
+angina-pectoris 心絞痛
+hypertension    高血壓
+cardic failure  心臟衰竭
+blood poisoning 毒血症
+sickle-cell anemia  鏈狀血球貧血
+varicose vein   靜脈曲張
+atherosclerosis 動脈粥狀硬化
+scurvy  壞血病
+angioma 血管瘤
+indigestion 消化不良
+food poisoning
+botulism  食物中毒
+peritonitis 腹膜炎
+duodenal ulcer  十二指腸潰瘍
+constipation    便秘
+gastric hyperacidity    胃酸過多
+gastric ulcer   胃潰瘍
+heart burn  胃痛
+gallstone   膽結石
+gastritis   胃炎
+enteritis   腸炎
+stomach convulsion  胃痙鑾
+amebic dysentery    阿米巴痢疾
+appendicitis    盲腸炎
+piles   痔瘡
+hernia  疝氣
+impotence   陽痿, 不舉, 性無能
+prostatic hypertrophy   攝護腺肥大症
+orchitis    睪丸炎
+spermatocystitis    遺精
+leukorrhea  白帶
+ectopic pregnancy   子宮外孕
+infertility 不孕症
+irregular menstruation  月經失調
+cervical cancer 子宮頸癌
+puerperal fever 產縟熱
+ovary infection     卵巢炎
+vaginal inflammation    陰道炎
+painful menstruation    痛經
+postpartum hemorrhage   產後出血
+premenstrual    經前症候群
+breast cancer   乳癌
+pneumonia   肺炎
+lung cancer 肺癌
+pleurisy    肋膜炎
+asthma  氣喘
+pneumothorax    氣胸
+phthisis    肺癆
+tracheitis  氣管炎
+pulmonary physema   肺氣腫
+bronchitis  支氣管炎
+concussion  腦震盪
+migraine    偏頭痛
+epilepsy    癲癇
+brain tumor 腦瘤
+neurasthenia    神經衰弱
+cerebral palsy  腦性麻痺
+cerebral embolism   腦栓塞
+cerebral bleeding   腦出血
+encephalitis    腦炎
+hydrocephalus   腦積水
+neuritis    神經炎
+neuralgia   神經痛
+mongolism, Down's syndrome  蒙古症, 唐氏症
+congenital heart    先天性心臟病
+PKU 苯銅尿症
+spina bifida    脊柱裂
+harelip 兔唇
+albinism    白化病
+color blindness 色盲
+cataract    白內障
+glaucoma    青光眼
+presbyopia  老花眼
+trachoma    砂眼
+conjunctivitis  結膜炎
+keratitis   角膜炎
+astigmatism 散光
+insomnia    失眠
+manic-depressive psychosis  躁鬱症
+senile dementia 老年癡呆症
+melancholia 憂鬱症
+schizophrenia   精神分裂症
+postpartum depression   產後憂鬱症
+hysteria    歇斯底里
+acrophobia  懼高症
+neurosis    精神官能症
+mental disorder 精神失常
+menopausal depression   更年期憂鬱症
+paranoia    妄想症
+gonorrhea   淋病
+syphilis    梅毒
+AIDS 愛滋病
+chancre 下疳
+tricomoniasis   滴蟲病
+Alzheimer's disease     阿茲海默症 (老人癡呆症)
+tetanus 破傷風
+food-poisoning  食物中毒
+dropsy  水腫
+ulceration  潰瘍
+calculus    結石
+armpit odor 狐臭
+hay fever   花粉熱
+sunstroke   中暑
+rheumatism  風濕
+arthritis   關節炎
+gout    痛風
+fracture    骨折
+dislocation 脫臼
+diabetes    糖尿病
+osteoporosis    骨質疏鬆症
+rheumatoid arthritis    類風濕關節炎
+sprain  扭傷
+allergy 過敏
+lead poisoning  鉛中毒
+urticaria   蕁麻疹
+eczema  溼疹
+corns   雞眼
+miliaria    粟粒疹〔痱子〕
+freckle 雀斑
+acne    粉刺
+herpes zoster   帶狀炮疹
+dermatitis  皮膚炎
+appendicitis 阑尾炎
+arthritis 关节炎
+bronchitis 支气管炎
+cancer 癌
+catarrh 卡他, 粘膜炎
+chicken pox, varicella 水痘
+cholera 霍乱
+cold 感冒, 伤风, 着凉
+diabetes 糖尿病
+diphtheria 白喉
+eczema 湿疹
+epilepsy 癫痫
+erysipelas 丹毒
+gangrene 坏疽
+German measles, rubella 风疹
+gout 痛风
+headache 头痛
+hemiplegy, hemiplegia 偏瘫, 半身不遂
+icterus, jaundice 黄疸
+indigestion 消化不良
+influenza, flu 流感
+insanity 精神病
+leukemia 白血病
+malaria 疟疾
+malnutrition 营养不良
+Malta fever 马耳他热, 波状热
+measles 麻疹
+migraine, splitting headache 偏头痛
+miocardial infarction 心肌梗塞
+mumps 流行性腮腺炎
+neuralgia 神经痛
+neurasthenia 神经衰弱
+paralysis 麻痹
+poliomyelitis 脊髓灰质炎
+rabies 狂犬病
+rheumatism 风湿病
+rickets, rachitis 佝偻病
+scabies, itch 疥疮
+scarlet fever 猩红热
+sciatica 坐骨神经痛
+sclerosis 硬化
+septicemia, septicaemia 败血病
+sinusitis 窦炎
+smallpox 天花
+swamp fever 沼地热
+syncope 晕厥
+syphilis 梅毒
+tetanus 破伤风
+thrombosis 血栓形成
+torticollis, stiff neck 斜颈
+tuberculosis 结核病
+tumour,tumor 瘤
+typhus 斑疹伤寒
+urticaria, hives 荨麻疹
+whooping cough 百日咳
+yellow fever 黄热病
+zona, shingles 带状疮疹
+
+http://www.letpub.com.cn/index.php?page=med_english&class_id=15
+酸中毒 Acidosis
+酒精中毒    alcoholism
+碱中毒 alkalosis
+过敏症 anaphylaxis
+贫血  anemia
+脉管炎 angiitis
+心绞痛 angina
+动脉硬化  arteriosclerosis
+中风  apoplexy
+心房纤颤  fibrillation
+哮喘   asthma
+支气管炎    bronchitis
+支气管扩张   bronchiectasis
+支气管肺炎   bronchopneumonia
+癌   carcinoma
+心律紊乱 arrhythmia
+心肌病 cardiomyopathy
+肝硬化 cirrhosis
+动脉硬化 arteriosclerotic
+库欣综合症   Cushing's
+糖尿病 diabetes
+痢疾  dysentery
+肠炎  enteritis
+胃溃疡 gastric ulcer
+胃炎  gastritis
+痛风  gout
+肝炎  hepatitis
+霍奇金病    Hodgkin's
+高脂血症，血脂过多   hyperlipemia
+甲状旁腺功能亢进    hyperparathyroidism
+脾功能亢进   hypersplenism
+高血压 hypertension
+甲状腺功能亢进 hyperthyroidism
+低血糖 hypoglycemia
+甲状腺功能减退 hypothyroidism
+心内膜炎 endocarditis
+流感  influenza
+白血病 leukemia
+肺炎  pneumonia
+淋巴结炎    lymphadenitis
+淋巴瘤 lymphoma
+疟疾  malaria
+麻疹  measles
+骨髓瘤 myeloma
+心肌炎 myocarditis
+肾炎  nephritis
+肺气肿  emphysema
+胰腺炎 pancreatitis
+腹膜炎 peritonitis
+胸膜炎 pleuritis
+肺炎  pneumonia
+气胸  pneumothorax
+风湿病 rheumatic
+败血症 septicemia
+梅毒  syphilis
+心动过速 tachycardia
+肿瘤  tumour
+伤寒  typhoid
+结肠炎 colitis
+栓塞 embolism
+梗死 infarction
+血栓 thrombosis
+大出血 hemorrhage
+脑震荡 concussion
+癫痫  epilepsy
+血肿 hematoma
+脑膜炎 meningitis
+偏头痛 migraine
+神经衰弱    neurasthenia
+神经官能症   neurosis
+精神病 psychosis
+帕金森综合症 Parkinson's
+精神病 psychosis
+精神分裂症   schizophrenia
+疝 hernia
+腹膜炎 peritonitis
+乳腺炎 mastitis
+胰腺炎 pancreatitis
+肾盂肾炎 pyelonephritis
+麻醉  anesthesia
+血管瘤 angioma
+阑尾炎 appendicitis
+溃疡  ulcer
+烧伤  burn
+痈   carbuncle
+胆囊炎 cholecystitis
+颈椎病 spondylosis
+胆管炎 choledochitis
+胆石症 cholelithiasis
+软骨瘤 chondroma
+脱臼 dislocation
+丹毒  erysipelas
+骨折  fracture
+疖   furuncle
+痔   hemorrhoid
+血胸  hemothorax
+前列腺 prostate
+脂肪瘤 lipoma
+尿路结石 lithangiuria
+脓肿 abscess
+黑色素瘤    melanoma
+骨巨细胞瘤   osteoclastoma
+骨质疏松症   osteoporosis
+骨质疏松症   osteosarcoma
+骨肉瘤 osteosarcoma
+佩吉特病 Paget's
+蜂窝织炎 phlegmon
+高压 hypertension
+前列腺炎 prostatitis
+椎间盘突出 intervertebral
+骨髓炎 ostcomyclitis
+脓胸  pyothorax
+息肉 polyp
+关节炎 arthritis
+肩周炎 periarthritis
+腱鞘炎 tenosynovitis
+破伤风 tetanus
+血栓性脉管炎  thromboangiitis
+腺癌  adenocarcinoma
+腺瘤  adenoma
+创伤  trauma
+静脉曲张  varicose
+结肠炎 enteritis
+紫癜  purpura
+钩虫病 ancylostomiasis
+蛔虫病 ascariasis
+窒息 asphyxia
+头颅血肿 cephalhematoma
+瘫痪 palsy
+落枕 torticollis
+惊厥  convulsion
+唐氏综合症 Down's
+肾小球肾炎 glomerulonephritis
+血友病 hemophilia
+腹泻 diarrhea
+颅内出血 intracranial
+肠套叠 intussusception
+小肠结膜炎 enterocolitis
+黄疸 jaundice
+贫血 anemia
+骨髓灰质炎 poliomyelitis
+营养不良 dystrophy
+肺结核 pulmonary
+肺结核 tuberculosis
+脑膜炎 meningitis
+佝偻病 rickets
+败血症  sepsis
+破伤风  tetanus
+鹅口疮，真菌性口炎 thrush
+水痘  varicella
+脑炎 encephalitis
+心肌炎 myocarditis
+流产  abortion
+子宫内膜异位症 adenomyosis
+巴氏腺囊肿   Bartholin's
+宫颈炎 cervicitis
+绒毛膜上皮癌  chorio-epithelioma
+囊肿 cyst
+难产  dystocia
+子痫  eclampsia
+子宫内膜异位症 endometriosis
+子宫外孕 extrauterine
+妊娠剧吐 hyperemesis
+妊娠剧吐 gravidarum
+不育症 infertility
+月经 menstruation
+恶露  lochia
+阴道炎 vaginitis
+肿瘤 myoma
+羊水过少    oligohydramnios
+高血压 hypertension
+综合症 syndrome
+阴道炎 vaginitis
+外阴炎 vulvitis
+弱视  amblyopia
+扁桃体炎    amygdalitis, tonsillitis
+散光  astigmatism
+白内障 cataract
+耳鸣  tinnitus
+霰粒肿，脸板腺囊肿 chalazion
+聋 deafness
+疖 furuncle
+青光眼 glaucoma
+斜视  heterotropia
+远视  hyperopia
+虹膜炎 iritis
+角膜炎 keratitis
+迷路炎，内耳炎 labyrinthitis
+喉炎  laryngitis
+乳突炎 mastoiditis
+近视  myopia
+鼻窦炎 sinusitis
+耳炎 otitis
+扁桃体中脓肿  peritonsillar abscess
+咽炎  pharyngitis
+鼻炎  rhinitis
+皮科  Dermatoloty
+痤疮  acne
+癌 carcinoma
+褥疮   decubitus
+湿疹  eczema
+单纯疱疹    herpes simplex
+带状疱疹    herpes zoster
+红斑狼疮    lupus erythematosis
+牛皮癣 psoriasis
+荨麻疹 urticaria
+疣   wart
